@@ -45,6 +45,9 @@ config.log
 *.vcxproj.*.user
 *.vcxproj.user
 *.obj
+
+# Debug directory
+/VectorAlgebra/VectorAlgebra/Debug
 *.idb
 *ReSharper*
 *.idb
