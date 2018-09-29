@@ -1,0 +1,53 @@
+# commonly used editors
+# vim
+*.swp
+# Eclipse
+*.project
+*.cproject
+.classpath
+*.sublime-*
+# KDevelop 4
+*.kdev4
+# gedit
+*~
+
+# generated files etc
+config.cache
+config.status
+config.log
+*.d
+*.depend
+*.pc
+*.P
+*.[oa]
+*.l[oa]
+*.so
+*.so.*
+*.dylib
+*.lineno
+*.py[co]
+*.ver
+*.rej
+*.orig
+*.bak
+*.apk
+*.class
+
+# Windows specific generated files
+*.exp
+*.ilk
+*.ncb
+*.pdb
+*.suo
+*.sdf
+*.opensdf
+*.vcproj.*.user
+*.vcxproj.*.user
+*.vcxproj.user
+*.obj
+*.idb
+*ReSharper*
+*.idb
+
+.libs/
+.deps/
