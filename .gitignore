@@ -45,6 +45,8 @@ config.log
 *.vcxproj.*.user
 *.vcxproj.user
 *.obj
+*.opendb
+*.VC.db
 
 # Debug directory
 /VectorAlgebra/VectorAlgebra/Debug
